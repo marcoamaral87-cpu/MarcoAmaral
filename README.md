@@ -1,16 +1,15 @@
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/main/assets/banner.png" alt="Banner" width="100%" />
 
   <h1>Olá, mundo! 👋</h1>
+  <br>
   
   <p>
     Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por criar soluções digitais incríveis. 
-    Transformando café em código desde 2022 ☕
+    Transformando café em código desde 2026 ☕
   </p>
-
+<br>
   <p>
-    <a href="https://github.com/seuusuario">
+    <a href="https://github.com/marcoamaral87">
       <img src="https://img.shields.io/github/followers/seuusuario?label=Follow&style=social" alt="GitHub Followers"/>
     </a>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="Open to Work"/>
@@ -26,7 +25,8 @@
 - 🌱 Atualmente aprendendo **Next.js 15**, **TypeScript** e **IA Generativa**
 - 🎯 Foco em criar aplicações web rápidas, bonitas e funcionais
 - 📚 Sempre em busca de novos desafios e aprendizado contínuo
-
+ <br>
+ 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -43,7 +43,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
+<br>
 ### 📊 Minhas Estatísticas
 
 <div align="center">
